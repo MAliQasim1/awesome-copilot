@@ -87,7 +87,7 @@ Custom agents can be used in Copilot coding agent (CCA), VS Code, and Copilot CL
 
 ### 🎯 Skills
 
-Skills are self-contained folders with instructions and bundled resources that enhance AI capabilities for specialized tasks. They can be accessed through the GitHub Copilot interface or installed via plugins.
+Skills are self-contained folders with instructions and bundled resources txnxxhat enhance AI capabilities for specialized tasks. They can be accessed through the GitHub Copilot interface or installed via plugins.
 
 ### 📋 Instructions
 
